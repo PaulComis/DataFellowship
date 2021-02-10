@@ -8,6 +8,6 @@ Any opinions expressed are my own and do not reflect those of DXC Technology or 
 
 [Assignments](assignments/assignments_index.md)
 
-[Notes](notes/_notes_index.md)
+[Notes](notes/notes_index.md)
 
 [Reading List](reading/reading_list.md)
